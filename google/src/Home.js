@@ -3,6 +3,7 @@ import './Home.css';
 import { Link } from 'react-router-dom';
 import AppsIcon from '@material-ui/icons/Apps';
 import { Avatar } from '@material-ui/core';
+import Search from './Search';
 
 export class Home extends Component {
   render() {
@@ -23,6 +24,9 @@ export class Home extends Component {
 
         <div className="home-body">
           <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"></img>
+          <div className="home-input-container">
+            <Search></Search>
+          </div>
         </div>
       </div>
         )
