@@ -25,7 +25,7 @@ export class Home extends Component {
         <div className="home-body">
           <img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"></img>
           <div className="home-input-container">
-            <Search hideButtons></Search>
+            <Search></Search>
           </div>
         </div>
       </div>
