@@ -12,8 +12,7 @@ function App() {
             <SearchPage></SearchPage>
           </Route>
           <Route path="/">
-            <Home>
-            </Home>
+            <Home></Home>
           </Route>
         </Switch>
       </Router>

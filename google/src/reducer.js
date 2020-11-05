@@ -15,7 +15,8 @@ const reducer = ( state, action ) => {
         ...state,
         term: action.term,
       };
-  default:
+
+    default:
     return state;
   }
 };

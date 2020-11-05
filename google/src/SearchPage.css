@@ -10,9 +10,9 @@
 }
 
 .searchPage-logo {
-  object-fit: center;
+  object-fit: contain;
   height: 50px;
-  margin-top: 50px;
+  margin-right: 50px;
 }
 
 .searchPage-header-body > .search > .search-input {
@@ -28,7 +28,7 @@
   color: grey;
 }
 
-.searchPage-options-left a,
+.searchPage-options a,
 .searchPage-options-right a {
   text-decoration: none;
   color: gray;
@@ -36,7 +36,7 @@
 
 .searchPage-options-left,
 .searchPage-options-right {
-  margin-left: 80px;
+  display: flex;
 }
 
 .searchPage-options-right {
@@ -49,11 +49,12 @@
   margin-right: 20px;
 }
 
-.searchPage-option a {
+.searchPage-option a,
+.searchPage-options-right a {
   margin-left: 5px;
 }
 
-.searchPagr-result {
+.searchPage-result {
   margin: 40px 0;
 }
 
