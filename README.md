@@ -42,4 +42,4 @@ The amazing features of virtual try on solutions are:
 
 <img src="images/mockups/1.png" width="470px">   <img src="images/mockups/4.png" width="470px">
 <br/>
-<img src="images/mockups/3.png" width="470px">   <img src="images/mockups/2.png" width="470px">-->
+<img src="images/mockups/3.png" width="470px">   <img src="images/mockups/2.png" width="470px"> -->
