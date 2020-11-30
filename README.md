@@ -22,5 +22,5 @@ An app that looks similar to [google.com](https://www.google.com)
 <!-- </p> -->
 
 
-<h2>Demo:</h2>Click <a href="https://g-clone-tikhsup.web.app">here.</a>
-<h2>Status:</h2>Under development
+<h3>Demo:</h3>Click <a href="https://g-clone-tikhsup.web.app">here.</a>
+<h3>Status:</h3>Under development
