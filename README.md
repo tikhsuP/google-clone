@@ -1,9 +1,6 @@
 # Google Clone
 An app that looks similar to [google.com](https://www.google.com)
 
-<h2>Demo:</h2>Click <a href="https://g-clone-tikhsup.web.app">here.</a>
-<h2>Status:</h2>Under development
-
 ### Technologies Used:
 <!-- <p align="left"> -->
 
@@ -23,3 +20,7 @@ An app that looks similar to [google.com](https://www.google.com)
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </a>&nbsp
 <!-- </p> -->
+
+
+<h2>Demo:</h2>Click <a href="https://g-clone-tikhsup.web.app">here.</a>
+<h2>Status:</h2>Under development
