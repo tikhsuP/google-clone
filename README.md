@@ -36,8 +36,6 @@ The amazing features of virtual try on solutions are:
 <h3>Demo:</h3>Click <a href="https://g-clone-tikhsup.web.app">here.</a>
 <h3>Status:</h3>Under development
 
-
-
 <!-- ## Wanna see how it looks? 
 
 <img src="images/mockups/1.png" width="470px">   <img src="images/mockups/4.png" width="470px">
