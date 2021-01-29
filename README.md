@@ -2,7 +2,6 @@
 An app that looks similar to [google.com](https://www.google.com)
 
 <h3>Demo:</h3>Click <a href="https://g-clone-tikhsup.web.app">here</a>.
-<h3>Status:</h3>Under development
 
 ### Technologies Used:
 <p align="left">
